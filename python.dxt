@@ -1,0 +1,43 @@
+PYTHON:
+        python is widely  used high level programming language for general purpose programming,created by Guido van rossum and first
+released in 1991.An interpreted language,python has a design philosophy that emphasis code readability.
+        python features  dynamic type system and automatic memeory management It supports multiple programming paradigms, including
+object-oriented, imperative, functional and procedural, and has a large and comprehensive standard library.
+
+HISTORY:        
+        Python was conceived in the late 1980s, and its implementation began in December 1989 by Guido van Rossum at 
+Centrum Wiskunde & Informatica (CWI) in the Netherlands as a successor to the ABC language (itself inspired by SETL)
+capable of exception handling and interfacing with the Amoeba operating system.Van Rossum remains Python's principal author.
+His continuing central role in Python's development is reflected in the title given to him by the Python community.
+        Python 2.0 was released on 16 October 2000 and had many major new features, including a cycle-detecting garbage collector
+and support for Unicode. With this release, the development process became more transparent and community-backed.
+Python 3.0 (initially called Python 3000 or py3k) was released on 3 December 2008 after a long testing period. It is a major
+revision of the language that is not backward-compatible with previous versions. However, many of its major features have been 
+backported to the backward-compatible Python 2.6.x[36] and 2.7.x version series.
+Python 2.7's end-of-life date (a.k.a. EOL, sunset date) was initially set at 2015, then postponed to 2020 out of concern that a
+large body of existing code could not easily be forward-ported to Python 3. In January 2017, Google announced work on a Python 2.7
+to Go transcompiler. The Register speculated that this was in response to Python 2.7's planned end-of-life, but Google cited 
+performance under concurrent workloads as their only motivation.
+
+FEATURES AND PHILOSOPHY:
+        Python is a multi-paradigm programming language. Object-oriented programming and structured programming are fully 
+supported, and many of its features support functional programming and aspect-oriented programming (including by metaprogramming
+and metaobjects (magic methods)).Many other paradigms are supported via extensions, including design by contract and logic
+programming.Python uses dynamic typing, and a combination of reference counting and a cycle-detecting garbage collector for 
+memory management. It also features dynamic name resolution (late binding), which binds method and variable names during program 
+execution.Python's design offers some support for functional programming in the Lisp tradition. It has filter(), map(), and 
+reduce() functions; list comprehensions, dictionaries, and sets; and generator expressions. The standard library has two modules
+(itertools and functools) that implement functional tools borrowed from Haskell and Standard ML.
+
+The language's core philosophy is summarized in the document The Zen of Python (PEP 20), which includes aphorisms such as:
+
+    "Beautiful is better than ugly,
+    Explicit is better than implicit,
+    Simple is better than complex,
+    Complex is better than complicated,
+    Readability counts".
+        Rather than having all of its functionality built into its core, Python was designed to be highly extensible. This 
+compact modularity has made it particularly popular as a means of adding programmable interfaces to existing applications. 
+Van Rossum's vision of a small core language with a large standard library and easily extensible interpreter stemmed from his
+frustrations with ABC, which espoused the opposite approach.
+
